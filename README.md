@@ -4,7 +4,7 @@
 ## Install
 
 ```bash
-$ cordova plugin add cordova-plugin-certificates
+$ cordova plugin add https://github.com/ElizabethMa/CertPlugin.git
 ```
 
 ## Usage
