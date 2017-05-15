@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-certificates",
+  "version": "0.1.0",
+  "description": "Cordova certificates Plugin.",
+  "cordova": {
+    "id": "cordova-plugin-certificates",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizabethMa/CertPlugin.git"
+  },
+  "keywords": [
+    "Anychat",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElizabethMa/CertPlugin/issues"
+  },
+  "homepage": "https://github.com/ElizabethMa/CertPlugin/blob/master/README.md"
+}
